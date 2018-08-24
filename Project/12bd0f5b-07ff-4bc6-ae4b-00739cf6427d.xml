@@ -1,1 +1,1 @@
-﻿{"CLs":[{"__type":"LD","Var":"Schakelaar"},{"__type":"ST","Ix":1,"Var":"Lamp","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+﻿{"CLs":[{"__type":"LD","Var":"Schakelaar"},{"__type":"LD","Ix":1,"Var":"Input1","Y":1},{"__type":"ST","Ix":2,"Var":"Lamp","X":1}],"LRI":3,"RRI":4,"VLs":[{"Ix":5,"X":1}]}

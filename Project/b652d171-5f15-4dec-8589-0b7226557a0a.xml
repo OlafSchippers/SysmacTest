@@ -1,6 +1,7 @@
 [SLWD version=1.0]
 _EN=Variables
 +GN=VAR	GVT=DefaultGroup
+++D=BOOL	N=Input1	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
 ++D=BOOL	N=Schakelaar	G=VAR_EXTERNAL
 ++D=BOOL	N=Lamp	G=VAR_EXTERNAL
